@@ -81,8 +81,9 @@ header>.col:last-child {
     transition: background 50ms;
     /* transition-delay:250ms ; */
 }
-#button:hover{
-    background-color: rgb(255,70,85);
+
+#button:hover {
+    background-color: rgb(255, 70, 85);
 }
 
 .col #icon ion-icon {
@@ -93,3 +94,5 @@ header>.col:last-child {
     cursor: pointer;
 
 }
+
+/* Section head Main Navigation Start in Here */
