@@ -1,0 +1,17 @@
+*{
+    font-family: "FF Mark W05", sans-serif;
+}
+
+h1{
+    font-family: "Tungsten-Bold", sans-serif;
+    font-size: 7.5rem;
+}
+
+h2, h3, h4, h5, h6{
+    font-family: "DINNextW05-Medium", sans-serif;
+}
+
+p{
+    font-family: "DINNextW1G", sans-serif;
+    line-height: 1.5rem;
+}
