@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "DINNextW05-Medium";
+    src: url("../font/a077222b-f869-4748-8eda-79372b7c40a1.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "FF Mark W05";
+    src: url("../font/0f774eeb-e868-4bd6-9055-79542afd5208.eot?#iefix");
+    src: url("../font/0f774eeb-e868-4bd6-9055-79542afd5208.eot?#iefix") format("eot");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "FF Mark W05";
+    src: url("../font/8a533745-7bc5-4dcd-8552-d9952208de6f.eot?#iefix");
+    src: url("../font/8a533745-7bc5-4dcd-8552-d9952208de6f.eot?#iefix") format("eot");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "FF Mark W05";
+    src: url("../font/MarkPro-Bold.eot?#iefix");
+    src: url("../font/MarkPro-Bold.eot?#iefix") format("eot");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "Tungsten-Bold";
+    src: url("../font/Tungsten-Bold_Web.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "DINNextW05-Bold";
+    src: url("../font/f855f545-9ff1-433c-912f-c58bd2d71d28.woff2") format("woff2");
+}
+
+
+
+@font-face {
+    font-family: "DINNextW1G";
+    src: url("../font/DINNextW1G.woff2") format("woff2");
+}
+
+/* ======================================= */
