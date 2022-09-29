@@ -15,3 +15,81 @@
     display: block;
     clear: both;
 }
+
+/* . LayOuts 
+============================================================================*/
+
+/* Section head */
+header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+
+}
+
+header>.col {
+    background-color: red;
+    height: 78px;
+    float: left;
+}
+
+header>.col:first-child {
+    background-color: yellow;
+    width: 169px;
+}
+
+header>.col:nth-child(2) {
+    background-color: green;
+    width: calc(100% - 169px - 188px);
+}
+
+header>.col:last-child {
+    background-color: #111;
+    width: 188px;
+    text-align: right;
+    padding-right: 38px;
+    padding-top: 20px;
+
+}
+
+/* ============================================================================ */
+/*  section head right logo panel */
+.col:last-child>div {
+    display: inline-block;
+}
+
+.col #icon {
+    margin-right: 6px;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    border-radius: 6.4px;
+}
+
+.col #icon:hover {
+    background-color: rgba(128, 128, 128, 0.1);
+}
+
+.col #button {
+    padding: 8px 16px;
+    border-radius: 12px;
+    height: 32px;
+    font-size: 13px;
+    background: linear-gradient(135deg, rgb(255, 51, 66) 0%, rgb(255, 48, 64) 0.01%, rgb(255, 125, 102) 100%);
+    cursor: pointer;
+    transition: background 50ms;
+    /* transition-delay:250ms ; */
+}
+#button:hover{
+    background-color: rgb(255,70,85);
+}
+
+.col #icon ion-icon {
+    color: white;
+    font-size: 1.2rem;
+    vertical-align: middle;
+    padding-top: 5px;
+    cursor: pointer;
+
+}
